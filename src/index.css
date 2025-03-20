@@ -24,3 +24,7 @@ body {
 .ql-editor {
   border: none !important;
 }
+
+.quill > .ql-toolbar:first-child {
+  display: none !important;
+}
